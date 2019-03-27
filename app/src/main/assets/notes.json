@@ -1,0 +1,99 @@
+{
+  "notes":
+  [
+      {"level":"beginner", "data":
+        [
+          {
+            "name": "G",
+            "image": "g_low",
+            "pos":"13"
+          },
+          {
+            "name": "A",
+            "image": "a_low",
+            "pos":"12"
+          },
+          {
+            "name": "B",
+            "image": "b_low",
+            "pos":"2"
+          },
+          {
+            "name": "C",
+            "image": "c_low",
+            "pos":"0"
+          },
+          {
+            "name": "D",
+            "image": "d_low",
+            "pos":"13"
+          },
+          {
+            "name": "E",
+            "image": "e_low",
+            "pos":"12"
+          },
+          {
+            "name": "F",
+            "image": "f_low",
+            "pos":"1"
+          },
+          {
+            "name": "G",
+            "image": "g_mid",
+            "pos":"0"
+          },
+          {
+            "name": "A",
+            "image": "a_mid",
+            "pos":"12"
+          },
+          {
+            "name": "B",
+            "image": "b_mid",
+            "pos":"12"
+          },
+          {
+            "name": "C",
+            "image": "c_mid",
+            "pos":"0"
+          },
+          {
+            "name": "D",
+            "image": "d_mid",
+            "pos":"1"
+          },
+          {
+            "name": "E",
+            "image": "e_mid",
+            "pos":"0"
+          },
+          {
+            "name": "F",
+            "image": "f_mid",
+            "pos":"1"
+          },
+          {
+            "name": "G",
+            "image": "g_high",
+            "pos":"0"
+          },
+          {
+            "name": "A",
+            "image": "a_high",
+            "pos":"12"
+          }
+        ]
+      },
+      {
+        "level": "advanced","data":
+        [
+          {
+            "name":"",
+            "image":"",
+            "pos":""
+          }
+        ]
+      }
+    ]
+}
